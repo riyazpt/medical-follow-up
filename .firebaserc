@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "medical-follow-up-demo",
+    "medical-follow-up-demo": "medical-follow-up-demo"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
